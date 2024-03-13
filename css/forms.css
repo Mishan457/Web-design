@@ -1,0 +1,40 @@
+body{
+background-color: lemonchiffon;	
+}
+p{
+font-size: 50px;
+color: lightsalmon;
+text-align: center;
+}
+.in1{
+display: block;	
+margin-bottom: 20px;
+height: 1cm;
+font-size: 24px;
+font-family: cursive;
+color: darkviolet;
+}
+.s1{
+font-size: 24px;	
+}
+.s2{
+color: Black;	
+font-size: 24px;
+background-color: lightskyblue;
+border-radius: 15px;
+border: solid 2px black;
+}
+.in3{
+width: 30px;
+height: 30px;
+background-color: limegreen;
+margin-left: 200px;	
+}
+.submit{
+width: 20%;
+height: 40px;	
+background-color: yellowgreen;
+font-size: 30px;
+margin-left: 630px;
+margin-top: 10px;
+}
